@@ -1,4 +1,4 @@
-
+ 
 # Employees and Sectors
 
 A simple SQL project that demonstrates how to manage Employees and Sectors using a relational database. This project includes database schema creation, sample data insertion, and SQL queries to perform common operations.
